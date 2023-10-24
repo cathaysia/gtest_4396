@@ -1,0 +1,5 @@
+/target
+.cache/clangd/index
+build
+dead_rs/target
+dead_rs/Cargo.lock
